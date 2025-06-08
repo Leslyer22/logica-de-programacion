@@ -1,8 +1,7 @@
 //Ejercicio 4: Tabla de multiplicar
 
 /*Descripción:
-Crear un programa que imprima la tabla de multiplicar de un número ingresado.Pedir al usuario un número y mostrar en pantalla la tabla de multiplicar
-de ese número desde 1 hasta 10*/
+Crear un programa que imprima la tabla de multiplicar de un número ingresado.*/
 
 
 let numero = parseInt(prompt("Ingrese un número"));
