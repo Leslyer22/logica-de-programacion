@@ -1,4 +1,4 @@
-//Ejercicio 9: Adivina el número
+//Ejercicio 10: Adivina el número
 
 /*Descripción:
 Crear un juego donde el programa tenga un número secreto (por ejemplo, 7), y el usuario debe adivinarlo.
